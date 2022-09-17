@@ -1,2 +1,4 @@
-# classes-objects-interfaces-etc
-The difference between classes and objects and interfaces, static and instance explained.
+# Java Building Blocks
+
+* The difference between classes and objects and interfaces
+* The difference between static and instance
